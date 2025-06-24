@@ -59,7 +59,7 @@ Cada sprint possui duração fixa de 7 dias com metas claras e entregas bem defi
 
 | Período | Atividade                                               | Entrega esperada                                   | Entrega feita | Responsável              |
 | ------- | ------------------------------------------------------- | -------------------------------------------------- | ------------- | ------------------------ |
-| Dia 18  | Elaboração e aplicação completa dos testes funcionais   | Plano de testes elaborado e executado              | ✅ Sim         | **Thiago, Larissa e Luciano**         |
+| Dia 18  | Elaboração e aplicação completa dos testes funcionais   | Plano de testes elaborado e executado              | 🕐	 Sim (Com atraso no prazo planejado)        | **Thiago, Larissa e Luciano**         |
 | Dia 19  | Implementação e cálculo das métricas (Pontos de Função) | Métricas calculadas e documentadas                 | ✅ Sim         | **Augusto**       |
 | Dia 21  | Revisão final completa e documentação definitiva        | Validação final do projeto e documentação entregue | ✅ Sim         | **Todos os integrantes** |
 
