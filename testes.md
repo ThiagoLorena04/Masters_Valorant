@@ -1,4 +1,4 @@
-# **Requisitos Não Funcionais**
+# **Requisitos Funcionais**
 
 ## Testes – Autenticação e Acesso
 | ID            | Objetivo                                                                | Dados de Entrada                                                                                   | Procedimento                                                                                                                      | Resultado Esperado                                                                       |
